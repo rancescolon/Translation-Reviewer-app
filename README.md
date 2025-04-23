@@ -2,7 +2,7 @@
 
 A standalone web application for reviewing, comparing, and correcting translations between English and any target language. This tool helps translators and developers ensure high-quality translations by providing an intuitive interface for reviewing and correcting JSON translation files.
 
-![Translation Reviewer Screenshot](/placeholder.svg?height=400&width=800)
+
 
 ## Features
 
